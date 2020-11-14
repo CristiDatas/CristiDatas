@@ -4,7 +4,7 @@
 
 
 
-<img src="https://i.pinimg.com/originals/e2/90/9a/e2909aab62a0d9f7a4dcd095d2bdf069.gif" style="max-height:25%;">
+<img src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_1_opt2.gif">
 
 <p>&nbsp;</p>
 <p><a href="https://github.com/CristiDatas/heroku_mental_gym/blob/main/api.py" title="API mental gym">API</a></p>
