@@ -1,5 +1,13 @@
 # ¡Hola! 👋
 ## Bienvenidx a mi GitHub
+<img src="https://github.com/CristiDatas/DataScience/blob/master/others/git_images/%40CristiDatas.gif">
+
+Soy una Data Scientist junior con mucha ilusión por poner en práctica mis conocimientos y ganas de seguir aprendiendo.
+<img src="https://github.com/CristiDatas/DataScience/blob/master/others/git_images/baby_yoda.gif">
+Aquí os muestro algunos de los proyectos que he realizado o en lo que he colaborado.
+
+
+[![Proyecto grupal agosto 2020: Covid 19](https://github.com/CristiDatas/08_2020_grupal_covid/blob/main/resources/images/covid.png "Proyecto grupal agosto 2020: Covid 19")](https://github.com/CristiDatas/08_2020_grupal_covid "Proyecto grupal agosto 2020: Covid 19")
 
 
 
