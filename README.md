@@ -19,7 +19,12 @@ con mucha ilusión por poner en práctica mis conocimientos y ganas de seguir ap
 
 [![Proyecto individual agosto 2020: Vivir en Madrid](https://github.com/CristiDatas/08_2020_individual_viviendas/blob/main/resources/images/housesbanner.png "Proyecto individual agosto 2020: Vivir en Madrid")](https://github.com/CristiDatas/08_2020_individual_viviendas "Proyecto individual agosto 2020: Vivir en Madrid")
 
+### [Actualmente, sigo desarrollando junto a ex compañeros de The Bridge un proyecto multidisciplinar que consiste en una aplicación multiplataforma destinada a entretener y a paliar los efectos de la vejez, el desarrollo cognitivo y el Alzheimer](https://github.com/CristiDatas/Mental_Gym)
 
+[![Mental Gym](https://github.com/CristiDatas/DataScience/blob/master/others/git_images/1605812475774.jpg "Mental Gym")](https://github.com/CristiDatas/Mental_Gym "Mental Gym")
+
+## También puedes ver algunos de mis trabajos en Tableau y Power Bi (en desarrollo)
+[![Aprendiendo Tableau](https://jordiob.com/herramientas-ecommerce/wp-content/uploads/2020/05/tableau-logo-203x150.png "Aprendiendo Tableau")](https://public.tableau.com/profile/cristidatas#!/ "Aprendiendo Tableau")
 <!--
 # ¡Hola! 👋
 
