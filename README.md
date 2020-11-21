@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 ## Bienvenidx a mi GitHub
-<img src="https://github.com/CristiDatas/DataScience/blob/master/others/git_images/portada.gif">
+
 
 
 
