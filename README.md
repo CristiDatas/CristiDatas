@@ -8,7 +8,7 @@ con mucha ilusión por poner en práctica mis conocimientos y ganas de seguir ap
 <img src="https://github.com/CristiDatas/DataScience/blob/master/others/git_images/baby_yoda.gif">
 
 ## Estos son algunos de los proyectos que he realizado o en los que he colaborado.
-### * Proyecto grupal agosto 2020: Covid 19
+### [Proyecto grupal agosto 2020: Covid 19](https://github.com/CristiDatas/08_2020_grupal_covid)
 
 
 [![Proyecto grupal agosto 2020: Covid 19](https://github.com/CristiDatas/08_2020_grupal_covid/blob/main/resources/images/covid.png "Proyecto grupal agosto 2020: Covid 19")](https://github.com/CristiDatas/08_2020_grupal_covid "Proyecto grupal agosto 2020: Covid 19")
